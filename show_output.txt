@@ -1,0 +1,6 @@
+Personal expense tracker
+   Category      Price     Amount  
+   keyboard       700        8     
+     mouse        500        2     
+     lunch        1200       11    
+THE TOTAL EXPENSE IS 19800

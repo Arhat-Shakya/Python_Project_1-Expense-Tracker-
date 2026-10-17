@@ -1,0 +1,2 @@
+[{'Category': 'keyboard', 'amount': 8, 'price': 700}, {'Category': 'mouse', 'amount': 2, 'price': 500}, {'Category': 'lunch', 'amount': 11, 'price': 1200}]
+THE TOTAL EXPENSE IS 19800
